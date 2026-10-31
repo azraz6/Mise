@@ -13,7 +13,6 @@
 		11128E31AD2A4F420A13927E /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A082ADE54C48142B7E74AC /* ShareViewController.swift */; };
 		11C5DDE0B81E2E11FB14A173 /* SourceDetectorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6635AECD4FF789DC08D903 /* SourceDetectorTests.swift */; };
 		12F3B1A78C0A13EC94FC5803 /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5DDC404F07BA2C8D5C656B /* AppGroup.swift */; };
-		18B99CD1F09503FED1D52C4C /* Products.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 36CC435EB9B9A2F12886E286 /* Products.storekit */; };
 		23FCBA836961DEFE8855B0B4 /* TextRecipeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FF514AA477ADC18FA510F3 /* TextRecipeParser.swift */; };
 		274D3B9D6D726169C0B4A884 /* IngredientScalerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131DE671B058FF48013B729F /* IngredientScalerTests.swift */; };
 		2A4AAD673FB69079C93360CF /* RecipeSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC6F42AE58C3231C5F4D02DF /* RecipeSearch.swift */; };
@@ -39,7 +38,6 @@
 		67074172E73224268C9A4500 /* ImportCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEE302EE41E1CBBF4B8B075 /* ImportCoordinator.swift */; };
 		67AED9C1FACE07F5CCB38CE9 /* RecipeDraft.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB0297691D7D9FAE9B1643B /* RecipeDraft.swift */; };
 		714C1D10F272C5A1A3A42745 /* MiseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184DFB269D88BBF947E39ACD /* MiseUITests.swift */; };
-		72EC61BAF2291FEF01A62DC0 /* MiseAppearanceAuditUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 009AD8A367BFE3C0F734E4A6 /* MiseAppearanceAuditUITests.swift */; };
 		73CAD721D5AEE0DF8F3DAB46 /* UsageTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DAAFECAA41B7F30803EE14 /* UsageTrackerTests.swift */; };
 		77CA3E887CFA29D731A8CC79 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = BB0FBCFBE06F9FFC8C01B5E6 /* PrivacyInfo.xcprivacy */; };
 		786D83820E84129E05752933 /* WebsiteRecipeExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13C9C5172F10663A5A254AAB /* WebsiteRecipeExtractor.swift */; };
@@ -55,7 +53,6 @@
 		97A71C8B852790A405ACCB8B /* RecipeModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 964FF2C58CB4FCBB331D79AC /* RecipeModelTests.swift */; };
 		9971283988EBAE88B0ED24E6 /* ModelContainerFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA82DB4A46A3F753C8D1E2C /* ModelContainerFactory.swift */; };
 		99DB9601BED38502EEA6E9CB /* MiseTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C0477454F88C606131DA31 /* MiseTheme.swift */; };
-		9F6205F4117AE095FFDFC5C2 /* MiseVisualAuditUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D2B732370AC5EF79A6EDF0 /* MiseVisualAuditUITests.swift */; };
 		A51FA124C26BD9EE8D255236 /* JSONLDExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426CF93B1BD5A74C18A623B /* JSONLDExtractor.swift */; };
 		A88622237C4E98F1C3F19C21 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF624A5CCFFD73199185C834 /* StoreKit.framework */; };
 		A91A1EB7EB84540A88046CCA /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776DCAB6571396354E28ACBE /* PaywallView.swift */; };
@@ -119,7 +116,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		009AD8A367BFE3C0F734E4A6 /* MiseAppearanceAuditUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiseAppearanceAuditUITests.swift; sourceTree = "<group>"; };
 		01CB82B2333A35D72942E08E /* WebsiteFetcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteFetcherTests.swift; sourceTree = "<group>"; };
 		032AA50810C004CABC7C8BD7 /* AppDependencies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDependencies.swift; sourceTree = "<group>"; };
 		036EB6862CD439C1F087A078 /* LibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
@@ -186,7 +182,6 @@
 		E1159045BFB5FF7D77820148 /* StoreKitConfigurationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreKitConfigurationTests.swift; sourceTree = "<group>"; };
 		E2E8E6EEF282F7E8CCA0671C /* SeedData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeedData.swift; sourceTree = "<group>"; };
 		E5CCBD18F7AEC7F1995194BD /* CookingModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookingModeView.swift; sourceTree = "<group>"; };
-		E7D2B732370AC5EF79A6EDF0 /* MiseVisualAuditUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiseVisualAuditUITests.swift; sourceTree = "<group>"; };
 		E81B4ED5354AA0EFB5E90EBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		E97FABA82FC58BCF7512D506 /* AppRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppRouter.swift; sourceTree = "<group>"; };
 		EAD31590A869F7FBCDF7B7C3 /* AccessibilityAuditUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityAuditUITests.swift; sourceTree = "<group>"; };
@@ -453,9 +448,7 @@
 			isa = PBXGroup;
 			children = (
 				EAD31590A869F7FBCDF7B7C3 /* AccessibilityAuditUITests.swift */,
-				009AD8A367BFE3C0F734E4A6 /* MiseAppearanceAuditUITests.swift */,
 				184DFB269D88BBF947E39ACD /* MiseUITests.swift */,
-				E7D2B732370AC5EF79A6EDF0 /* MiseVisualAuditUITests.swift */,
 			);
 			path = MiseUITests;
 			sourceTree = "<group>";
@@ -715,7 +708,6 @@
 			files = (
 				C3999A34457BC353A9576316 /* Assets.xcassets in Resources */,
 				77CA3E887CFA29D731A8CC79 /* PrivacyInfo.xcprivacy in Resources */,
-				18B99CD1F09503FED1D52C4C /* Products.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -735,9 +727,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD8254C889D73AAE1B4AADCB /* AccessibilityAuditUITests.swift in Sources */,
-				72EC61BAF2291FEF01A62DC0 /* MiseAppearanceAuditUITests.swift in Sources */,
 				714C1D10F272C5A1A3A42745 /* MiseUITests.swift in Sources */,
-				9F6205F4117AE095FFDFC5C2 /* MiseVisualAuditUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -859,7 +849,7 @@
 				PRODUCT_NAME = "Mise Share";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -933,7 +923,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = W39964D5QG;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -949,7 +939,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -998,7 +988,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = W39964D5QG;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1020,7 +1010,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1068,7 +1058,7 @@
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1089,7 +1079,7 @@
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -1109,7 +1099,7 @@
 				PRODUCT_NAME = "Mise Share";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

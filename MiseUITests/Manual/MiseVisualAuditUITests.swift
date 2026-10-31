@@ -17,6 +17,14 @@ final class MiseVisualAuditUITests: XCTestCase {
         sleep(1)
     }
 
+    func testCapturePaywallReview() {
+        app.buttons["settingsButton"].tap()
+        XCTAssertTrue(app.buttons["settingsPremiumButton"].waitForExistence(timeout: 10))
+        app.buttons["settingsPremiumButton"].tap()
+        XCTAssertTrue(app.descendants(matching: .any)["paywallView"].waitForExistence(timeout: 10))
+        capture("paywall-review")
+    }
+
     func testCaptureAuditScreens() {
         capture("01-home-top")
 
