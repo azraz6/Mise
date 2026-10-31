@@ -1,0 +1,132 @@
+{
+  "identifier" : "9A7C2E41",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "6B2D8F30",
+      "localizations" : [
+
+      ],
+      "name" : "Mise Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "2F8A61C4",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited automatic imports and collections, renewed monthly.",
+              "displayName" : "Mise Premium Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.elahitech.mise.premium.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Mise Premium Monthly",
+          "subscriptionGroupID" : "6B2D8F30",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "7C4E93B1",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "A year of unlimited automatic imports and collections.",
+              "displayName" : "Mise Premium Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.elahitech.mise.premium.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Mise Premium Yearly",
+          "subscriptionGroupID" : "6B2D8F30",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
